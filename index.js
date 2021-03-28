@@ -47,7 +47,7 @@ const startPomodoro = (duration, display) => {
             this.minutes = minutes;
             this.seconds = seconds;
             restart.style.display = "block";
-            // playAudio();
+            playAudio();
             restartPomodoro();
 
         }
