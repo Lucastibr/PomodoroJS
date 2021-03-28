@@ -4,6 +4,6 @@
 
 # Visualmente está simples, mas bem funcional.
 
-![Alt text](./images/pomodoro1)  |  ![Alt text](./images/pomodoro2)
+![Alt text](./images/pomodoro1.png)  |  ![Alt text](./images/pomodoro2.png)
 
 # Falta a funcionalidade de pausar, virá no próximo commit.
